@@ -15,13 +15,6 @@ Put these four files in the same folder as the notebook:
 - `2023_Building_permit_YTD_registry.xlsx` — from City of Airdrie
 - `1_Jan_building_permit_YTD_registry_xlsx.xlsx` — from City of Airdrie
 
-## Setup
-
-```
-pip install pandas numpy matplotlib plotly prophet xgboost scikit-learn openpyxl jinja2
-```
-
-Tested on Python 3.9. If you're on pandas 2.0+ the notebook patches the `Int64Index` removal automatically.
 
 ## Running
 
